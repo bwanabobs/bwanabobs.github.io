@@ -1,0 +1,4 @@
+;Image=bwana2.bmp
+rect index.htm 1,13 324,178
+rect form.php 36,38 296,174
+rect form.php 15,231 301,272
