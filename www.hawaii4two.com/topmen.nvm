@@ -1,0 +1,13 @@
+;Image=topmen.gif
+rect links.htm 50,246 101,267
+rect contact.htm 30,226 119,246
+rect where.htm 13,185 135,225
+rect activ.htm 35,169 113,187
+rect gallery.htm 23,147 129,168
+rect reviews.htm 40,129 111,148
+rect map.htm 52,110 94,130
+rect amenities.htm 34,90 114,111
+rect rates.htm 48,73 104,92
+rect cottages.htm 39,54 109,73
+rect res.htm 27,35 122,54
+rect selectbw.htm 32,15 118,34
