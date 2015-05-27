@@ -1,0 +1,13 @@
+HTTrack3.48-21 launched on Tue, 26 May 2015 19:20:23 at http://www.hawaii4two.com/
+(winhttrack http://www.hawaii4two.com/ -W -O "/home/eric/httrack/hawaii4two.com/hawaii4two" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:21:46	Error: 	"Not Found" (404) at link www.hawaii4two.com/activities.htm (from www.hawaii4two.com/sitemap.htm)
+19:21:46	Error: 	"Not Found" (404) at link www.hawaii4two.com/bwana2.bmp (from www.hawaii4two.com/tourx.htm)
+
+HTTrack Website Copier/3.48-21 mirror complete in 4 minutes 49 seconds : 145 links scanned, 142 files written (6901207 bytes overall) [6949333 bytes received at 24046 bytes/sec], 4.4 requests per connection
+(2 errors, 0 warnings, 0 messages)

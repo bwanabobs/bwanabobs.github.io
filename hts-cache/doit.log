@@ -1,0 +1,8 @@
+http://www.hawaii4two.com/ -W -O "/home/eric/httrack/hawaii4two.com/hawaii4two" -%v
+File generated automatically on Tue, 26 May 2015 19:20:23, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
